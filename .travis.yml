@@ -9,6 +9,6 @@ deploy:
     secure: bZtVrp8pXekfLdKHeHleB0E+XAfDeaI27AJHzo8LTsw2ZFsqh+Mp7BCMZnRGPWya/l7CX6wAbUEZRRYh/D25lmJFqE9xk7/8KnCLSKtkOT//FdDKSqFAh0kGAYAH27jyscGkvPM7Eqo/0d/39AlJ4Hubvu23Dl3LotqMF9Run+c6QKUAC/zozXtDppzO+GrRT05i7RijsYbA3AGbvDKCj/2MYZLYNq8YGsN+9bBSn6cQBoeKMalinznV3VUodxJwqPooKSDii81zhRb+WvgY0vEFSJZEbyerTOseXZ7B8jbLYa+Jnb1tkv4MZatPOirm0FNiNRIe5EajBuJBYhjpMRMscHAZLsgXUxFcizw5OhamlHEMP9MT4iize89NJJb5+hdsx6TB/oO/ykrCjHDmVtkAsx3V1brGI92nKeZ95PElWVAVki15DX+Uwxd6FKLiB+XBzTsTiXgds0jCsfKP6Wk0TxMQQwdzr2KT7R5uASLtQVUEdSwftQhCAEasA5r7Zhyw9gjpWfzvXgLLQdAPnbFYmfx7FRiY7lGhQh3vU9lhrysr2QtYV0zgbdE/r/zu0sDaKY56569Yi56YHgiz7dk7T1DZ5eKddjXvgti7T6DGpzUNbVzRjhMpdwyalRh+gin0MpqR7yXwijbAAMG/GZKOmgh0IkNJLBuKWmeRuhU=
   on:
     tags: true
-    repo: thunder-js/vapt
+    repo: thunder-js/vupt
     branch: master
   skip_cleanup: true
